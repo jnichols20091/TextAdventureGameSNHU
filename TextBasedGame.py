@@ -15,7 +15,7 @@ rooms = {
     'Adventureland': {'North': 'Edison-World', 'West': 'Mini-Town', 'Item': 'Key to Castle'},
     'Edison-World': {'North': 'Frontierland', 'West': 'Fame-Street USA', 'South': 'Adventureland',
                      'Item': 'Armor'},
-    'Frontierland': {'North': 'The Castle', 'West': 'Critter Country', 'South': 'Edison-world',
+    'Frontierland': {'North': 'The Castle', 'West': 'Critter country', 'South': 'Edison-world',
                      'Item': 'Medical kit'},
     'Critter country': {'East':'Frontierland', 'Item': 'Gun'},
     'The Castle': {'Villian': 'The Shadow Person', 'South': 'Frontierland'},
